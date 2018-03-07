@@ -1,5 +1,5 @@
 # PokemonTest
-  Pokedex
+  Java Eclipse - Pokedex
   
 # Things used in project
 1.  IDE used for this project was Java Eclipse EE version Mars.2(4.5.2)
